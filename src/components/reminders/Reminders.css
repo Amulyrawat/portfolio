@@ -1,0 +1,5 @@
+.progress__container{
+    background: var(--color-light);
+    border: 1.5rem;
+    padding: 1.5rem;
+}
